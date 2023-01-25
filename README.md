@@ -8,3 +8,4 @@ blabla
 PRTest
 
 Commit in title
+Commit in commit message
